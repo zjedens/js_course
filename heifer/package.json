@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "heifer",
   "version": "1.0.0",
   "description": "boot.dev javascript course",
